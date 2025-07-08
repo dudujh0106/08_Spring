@@ -1,0 +1,10 @@
+org.scoula.board.controller
+org.scoula.board.domain
+org.scoula.board.dto
+org.scoula.board.mapper
+org.scoula.board.service
+org.scoula.common.util
+org.scoula.config
+org.scoula.controller
+org.scoula.exception
+org.scoula.persistence
